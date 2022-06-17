@@ -1,7 +1,5 @@
 # Bot_kuni
 
----
-
 A small bot for partial automation of character leveling in Ni no Kuni Cross Worlds
 
 ---
